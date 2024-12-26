@@ -10,7 +10,6 @@ if choice == "Biggest":
             num1 = num2
         i=i+1
     print("The biggest number is ",num1)
-
 elif choice == "Smallest":
     count = int(input("How much numbers did you have?\n"))
     num1 = int(input("enter the first number\n"))
