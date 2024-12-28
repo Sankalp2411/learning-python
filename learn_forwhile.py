@@ -5,4 +5,5 @@ for i in range (1,11):
     print(num,"*",i,"=",num*i);
 
 #while loop
-while 
+while num > 18 :
+    print("you are eligible for vote");
